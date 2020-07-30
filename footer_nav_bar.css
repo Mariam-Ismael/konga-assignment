@@ -1,0 +1,23 @@
+nav{
+  background-color: #696969;
+}
+
+.my-col, .my-phone, .my-deals, .my-email{
+  color: #DCDCDC;
+}
+
+#my-btn{
+  background-color: #e83e8c;
+  color: white;
+  round-corner: 6px;
+}
+
+.my-email{
+  justify-item: center;
+}
+
+.i-email{
+  color: white;
+  border: 15px;
+  top: 5px;
+}
